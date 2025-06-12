@@ -1,7 +1,10 @@
 ## Bem vindos 👋
 Ola, eu sou a Sophia, tenho 20 anos e sou estudante de Engenharia de Software pela UNINTER, porém, fiz meu primeiro ano na FIAP. Fique a vontade para olhar os meus projetos.
 
-[![Python]([https://github.com/get-icon/geticon/blob/master/icons/python.svg](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white))]
+<div>
+  <a><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
+</div>
+
 <div>
   <a><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
 </div>
