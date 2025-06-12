@@ -4,7 +4,6 @@ Ola, eu sou a Sophia, tenho 20 anos e sou estudante de Engenharia de Software pe
 <div>
   <a><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
 </div>
-
 <div>
   <a><img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
 </div>
